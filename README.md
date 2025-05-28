@@ -50,6 +50,7 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 - [📽️ Watch the App Demo Video](https://drive.google.com/file/d/1K_xsqd8Jy_qm3LsQVpbdLAvFwqQjHFa7/view?usp=sharing)
 - [🎮 Watch the Manual Control Demo Video](https://drive.google.com/file/d/1-WqGfIsugvhem1wIa1_q6tAOGaLLVOpU/view?usp=sharing)
 
+- [📄 Expo Poster](https://drive.google.com/file/d/13Cc3jSGgMsZJ5F8IDeGcN8esA3r_OWEX/view?usp=drive_link)
 - [📄 Final Presentation PDF](https://drive.google.com/file/d/1HbBLbjniJwaN9-qYI3LXpxDdD3W5Wwex/view?usp=sharing)
 - [📝 Project Report PDF](https://drive.google.com/file/d/1IlSaHKCCGwuk0gvSE8nBpPDHJP8Sconk/view?usp=drive_link)
 
