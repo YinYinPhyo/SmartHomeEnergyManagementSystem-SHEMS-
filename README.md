@@ -4,7 +4,7 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 
 ## Features
 
-- **User Authentication:** Secure login via Firebase (email/password)
+- **User Authentication:** Secure login via Firebase Authentication(email/password)
 - **Device Control:** Remotely toggle appliances with real-time Firestore sync
 - **Automation Logic:** 
   - Light ON if motion detected; OFF after 1 hour
@@ -20,7 +20,7 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 
 | Login | Device Control | Usage Graphs | AI Suggestions | Settings |
 |-------|----------------|--------------|----------------|----------|
-| ![Login](screens/login.png) | ![Control](screens/control.png) | ![Graphs](screens/graphs.png) | ![AI](screens/ai.png) | ![Settings](screens/settings.png) |
+| ![Login](screens/login.png) | ![Control](screens/control.png) | ![EnergyUsage](screens/energyusage.png) | [EnergyPrediction](screens/prediction.png) | ![AI Suggestion](screens/AIsuggestion.png) | ![Settings](screens/settings.png) |
 
 ## Tech Stack
 
