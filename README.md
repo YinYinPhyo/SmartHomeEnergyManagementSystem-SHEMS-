@@ -20,7 +20,8 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 
 | Login | Device Control | Usage Graphs | Energy Prediction | AI Suggestions | Settings |
 |-------|----------------|--------------|-------------------|----------------|----------|
-| ![Login](screens/login.png) | ![Control](screens/control.png) | ![EnergyUsage](screens/energyusage.png) | ![Prediction](screens/prediction.png) | ![AI Suggestion](screens/AIsuggestion.png) | ![Settings](screens/settings.png) |
+| <img src="screens/login.png" height="200"/> | <img src="screens/control.png" height="200"/> | <img src="screens/energyusage.png" height="200"/> | <img src="screens/prediction.png" height="200"/> | <img src="screens/AIsuggestion.png" height="200"/> | <img src="screens/settings.png" height="200"/> |
+
 
 
 ## Tech Stack
