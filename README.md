@@ -18,9 +18,10 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 
 ## Screenshots
 
-| Login | Device Control | Usage Graphs | AI Suggestions | Settings |
-|-------|----------------|--------------|----------------|----------|
-| ![Login](screens/login.png) | ![Control](screens/control.png) | ![EnergyUsage](screens/energyusage.png) | [EnergyPrediction](screens/prediction.png) | ![AI Suggestion](screens/AIsuggestion.png) | ![Settings](screens/settings.png) |
+| Login | Device Control | Usage Graphs | Energy Prediction | AI Suggestions | Settings |
+|-------|----------------|--------------|-------------------|----------------|----------|
+| ![Login](screens/login.png) | ![Control](screens/control.png) | ![EnergyUsage](screens/energyusage.png) | ![Prediction](screens/prediction.png) | ![AI Suggestion](screens/AIsuggestion.png) | ![Settings](screens/settings.png) |
+
 
 ## Tech Stack
 
@@ -45,11 +46,12 @@ An AI-powered smart home platform built as a capstone project at San Francisco B
 
 ## Demo
 
-- [Watch the App Demo Video](#https://drive.google.com/file/d/1K_xsqd8Jy_qm3LsQVpbdLAvFwqQjHFa7/view?usp=sharing)
-- [Watch the Manual Control Demo Video](#https://drive.google.com/file/d/1-WqGfIsugvhem1wIa1_q6tAOGaLLVOpU/view?usp=sharing)
+- [📽️ Watch the App Demo Video](https://drive.google.com/file/d/1K_xsqd8Jy_qm3LsQVpbdLAvFwqQjHFa7/view?usp=sharing)
+- [🎮 Watch the Manual Control Demo Video](https://drive.google.com/file/d/1-WqGfIsugvhem1wIa1_q6tAOGaLLVOpU/view?usp=sharing)
 
-- [Final Presentation PDF](#https://drive.google.com/file/d/1HbBLbjniJwaN9-qYI3LXpxDdD3W5Wwex/view?usp=sharing)
-- [Project Report PDF](#https://drive.google.com/file/d/1IlSaHKCCGwuk0gvSE8nBpPDHJP8Sconk/view?usp=drive_link)
+- [📄 Final Presentation PDF](https://drive.google.com/file/d/1HbBLbjniJwaN9-qYI3LXpxDdD3W5Wwex/view?usp=sharing)
+- [📝 Project Report PDF](https://drive.google.com/file/d/1IlSaHKCCGwuk0gvSE8nBpPDHJP8Sconk/view?usp=drive_link)
+
 
 ---
 
